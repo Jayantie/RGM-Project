@@ -1,0 +1,28 @@
+
+.form{
+	background-color: gray;
+	margin: auto;
+ 	width: 50%;
+	
+}
+
+.btn{
+	background-color: black;
+}
+
+.2btn{
+	background-color: black;
+}
+
+.input{
+	border: 2px solid #a99f7c;
+  	border-radius: 4px;
+  	background-color: white;
+}
+
+.background2{
+	background-repeat: inherit;
+	background-color: #ffffff;
+	background-image: url("./pic.jpg");
+}
+
